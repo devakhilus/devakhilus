@@ -6,7 +6,7 @@
 
 
 <p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=supravatm&label=Profile%20views&color=0e75b6&style=flat" alt="Supravat-mondal" /> 
+ <img src="https://komarev.com/ghpvc/?username=devakhilus&label=Profile%20views&color=0e75b6&style=flat" alt="Supravat-mondal" /> 
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
