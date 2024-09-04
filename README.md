@@ -32,17 +32,17 @@
 
 <br><br>
 
-🔭 I’m currently working on **Magento 2**
+🔭 I’m currently working on **Java Full Stack**
 
-🌱 I’m currently learning **Magento 2 cloud**
+🌱 I’m currently learning **Servlet**
 
 👨‍💻 All of my projects are available at [Supravat's works](https://supravatm.github.io/projects)
 
-💬 Ask me about **PHP, Magento, LAMP**
+💬 Ask me about **PHP, LAMP**
 
 📫 How to reach me **supravt.com@gmail.com**
 
-📄 Know about my experiences [my experiences](http://supravatm.github.io)
+📄 Know about my experiences [my experiences](https:///usakhil.is-a.dev)
 
 ⚡ Fun fact **I think I'm funny**
 
