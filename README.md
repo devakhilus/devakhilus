@@ -36,11 +36,11 @@
 
 🌱 I’m currently learning **Servlet**
 
-👨‍💻 All of my projects are available at [Supravat's works](https://supravatm.github.io/projects)
+👨‍💻 All of my projects are available at [Akhil's works](https:///usakhil.is-a.dev)
 
 💬 Ask me about **PHP, LAMP**
 
-📫 How to reach me **supravt.com@gmail.com**
+📫 How to reach me [Telegram](https://t.me/merwick)
 
 📄 Know about my experiences [my experiences](https:///usakhil.is-a.dev)
 
