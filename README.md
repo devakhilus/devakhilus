@@ -35,7 +35,7 @@
 
 🌱 I’m currently learning **Spring**
 
-👨‍💻 All of my projects are available at [Akhil's works](https:///usakhil.is-a.dev)
+👨‍💻 All of my projects are available at [Akhil's works](https://devakhilus.github.io/)
 
 💬 Ask me about **PHP, LAMP**
 
