@@ -33,7 +33,7 @@
 
 🔭 I’m currently working on **Java Full Stack**
 
-🌱 I’m currently learning **Servlet**
+🌱 I’m currently learning **Spring**
 
 👨‍💻 All of my projects are available at [Akhil's works](https:///usakhil.is-a.dev)
 
