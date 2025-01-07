@@ -35,13 +35,13 @@
 
 🌱 I’m currently learning **Spring**
 
-👨‍💻 All of my projects are available at [Akhil's works](https://devakhilus.github.io/)
+👨‍💻 All of my projects are available at [Akhil's works](https://akhil.us.kg/projects/)
 
 💬 Ask me about **PHP, LAMP**
 
 📫 How to reach me [Telegram](https://t.me/merwick)
 
-📄 Know about my experiences [my experiences](https:///usakhil.is-a.dev)
+📄 Know about my experiences [my experiences](https://akhil.us.kg/resume/)
 
 ⚡ Fun fact **I think I'm funny**
 
